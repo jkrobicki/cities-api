@@ -1,6 +1,6 @@
 # Cities-api Instructions
 
-### 1. To run MKdocs
+1) To run MKdocs
 *  Install MkDocs   
 ```bash
 pip install mkdocs
@@ -10,4 +10,4 @@ pip install mkdocs
 ```bash
 mkdocs serve
 ```
-### 2. Read "About" and "About API" page
+2) Read "About" and "About API" page
