@@ -1,8 +1,7 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Form
 from pydantic import BaseModel
 from typing import Optional
 from fastapi.responses import HTMLResponse
-from fastapi import FastAPI, Form
 import dominate
 from dominate.tags import *
 
