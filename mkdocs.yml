@@ -4,5 +4,6 @@ nav:
     - Home: index.md
     - About: about.md
     - About API: about_api.md
+    - Tutorial: tutorial.md
 theme:
   name: material
